@@ -1,3 +1,21 @@
+# BIOMD0000000076: Cronwright2002_Glycerol_Synthesis
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000076.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000076.git@20140916`
+
+
+# Model Notes
 
 
 .
@@ -32,4 +50,5 @@ the flux for early exponential phase , however it can be used to reproduce the
 values for other phases by plugging in appropriate values for maximal rates as
 given in Table 1 and metabolite concentrations as given in Table 2 of the
 paper. The model was succesfully reproduced using Jarnac.
+
 
